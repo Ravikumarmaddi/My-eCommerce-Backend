@@ -24,5 +24,4 @@ We have implemented the following functions:
     
     3. They can add, delete, search, revise consumers' orders.
     
-The frontend part of this project is: [https://github.com/Ravikumarmaddi/My_eCommerce-Frontend]
-(https://github.com/Ravikumarmaddi/My_eCommerce-Frontend)
+The frontend part of this project is: https://github.com/Ravikumarmaddi/My_eCommerce-Frontend
